@@ -1,1 +1,1 @@
-what is ehterum
+Ethereum is a decentralized, open-source blockchain platform that enables the creation of smart contracts and decentralized applications (dApps). It uses a cryptocurrency called Ether (ETH) to facilitate transactions and execute code on its network. Unlike Bitcoin, which primarily functions as digital currency, Ethereum's blockchain is programmable, allowing developers to build and deploy applications with features like automated agreements (smart contracts) and decentralized finance (DeFi) solutions.
